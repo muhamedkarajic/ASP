@@ -7,7 +7,7 @@ class ciklicniNiz
 	int _maxSize = 5;
 	int _kraj = 0;
 	int* _niz = new int[_maxSize];
-	bool pun = false;
+	int _brojac = 0;
 
 	int getSljedeci(const int &lokacija) const {
 		if (lokacija + 1 == _maxSize)
@@ -15,24 +15,22 @@ class ciklicniNiz
 		return lokacija + 1;
 	}
 
-
 public:
-	bool jelPun() { return _kraj == _pocetak; }
+	bool jelPun() { return _brojac == _maxSize; }
+	bool jelPrazan() { return _brojac == 0; }
 	
 	void Ukloni()
 	{
 		_pocetak = getSljedeci(_pocetak);
-		if (pun)
-			pun = false;
+		_brojac--;
 	}
 
 	void Dodaj(const int &elemenet) {
 
-		if (!pun) {
+		if (!jelPun()) {
 			_niz[_kraj] = elemenet;
 			_kraj = getSljedeci(_kraj);
-			if (jelPun())
-				pun = true;
+			_brojac++;
 		}
 		else
 			cout << "Niz je pun." << endl;
@@ -40,11 +38,12 @@ public:
 	
 	void Ispis()
 	{
-		do
-		{
-			cout << _niz[_pocetak] << ", ";
-			_pocetak = getSljedeci(_pocetak);
-		} while (_pocetak != _kraj);
+		if (!jelPrazan())
+			do
+			{
+				cout << _niz[_pocetak] << ", ";
+				_pocetak = getSljedeci(_pocetak);
+			} while (_pocetak != _kraj);
 	}
 	
 };
