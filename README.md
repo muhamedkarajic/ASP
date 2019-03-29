@@ -1,7 +1,7 @@
 ## Algorithms and data structures
 
 ### Curriculum:
-1. Introduction. Linked list
+1. Linked list
 2. Stack and Order
 3. Priority Order
 4. Analysis of algorithms
