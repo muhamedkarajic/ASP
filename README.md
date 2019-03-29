@@ -1,5 +1,4 @@
-# ASP
-Algorithms and data structures
+## Algorithms and data structures
 
 ### Curriculum:
 1. Introduction. Linked list
