@@ -10,7 +10,7 @@ Algorithms and data structures
 6. MergeSort; QuickSort
 7. Search algorithms, sequential search, binary search
 8. Tree. Representation. Balanced search tree
-9. Hash table. Hushing
+9. Hash table
 10. Graph. Targeted, non-directional. Representation. Algorithms for touring the graph.
 11. Minimum spreading tree
 12. Determine the shortest distance
