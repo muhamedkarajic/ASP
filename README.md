@@ -1,3 +1,20 @@
+
+### Sort Algorithms:
+* [Merge Sort](https://github.com/muhamedkarajic/Exercise/blob/master/separateNumbers.py)
+* [Quick Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Bucket Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Heap Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Insertion Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Selection Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+
+### Search Algorithms
+* [Binary Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Depth First Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Breadth First Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+
+### Other Algorithms
+* [Hashing](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+
 ## Algorithms and data structures
 
 ### Curriculum:
