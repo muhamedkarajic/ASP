@@ -15,6 +15,10 @@
 ### Other Algorithms
 * [Hashing](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 
+### Data Structures
+* [Hashing](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+
+
 ### Curriculum of Algorithms and data structures:
 1. Linked list
 2. Stack and Order
