@@ -20,8 +20,8 @@
 
 ### Curriculum of Algorithms and data structures:
 1. Linked list
-2. Stack and Order
-3. Priority Order
+2. Stack and Queue
+3. Priority Queue
 4. Analysis of algorithms
 5. Elemental sorting IinsertionSort, SelectionSort
 6. MergeSort; QuickSort
