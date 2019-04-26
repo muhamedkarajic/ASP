@@ -4,36 +4,32 @@
 #include "Node.h"
 
 template <class Type>
-class SinglyLinkedList : public List<Type>
+class LinkedListSingly : public List<Type>
 {
   private:
     int counter;
-    Node<Type> *node;
+    Node<Type>* node;
 
   public:
-    SinglyLinkedList()
+    LinkedListSingly()
     {
         counter = 0;
         node = nullptr;
     }
 
-    SinglyLinkedList(Type *array, int size) : SinglyLinkedList()
+    LinkedListSingly(Type *array, int size) : LinkedListSingly()
     {
         for (int i = 0; i < size; i++)
-        {
             add(array[i]);
-        }
     }
 
-    SinglyLinkedList(List<Type> *list) : SinglyLinkedList()
+    LinkedListSingly(List<Type> *list) : LinkedListSingly()
     {
         for (int i = 0; i < list->count(); i++)
-        {
             add(list.get(i));
-        }
     }
 
-    SinglyLinkedList(List<Type> &list) : SinglyLinkedList(&list) {}
+    LinkedListSingly(List<Type> &list) : LinkedListSingly(&list) {}
 
     void add(Type v)
     {
@@ -45,10 +41,10 @@ class SinglyLinkedList : public List<Type>
     Type remove()
     {
         if (isEmpty())
-            throw exception("Greska. Nije moguce ukloniti elemenat iz prazne liste");
+            throw exception("Error. It's not possible to remove an element from an empty array.");
 
         counter--;
-        Node<Type> *t = node;
+        Node<Type>* t = node;
         node = node->next;
         Type x = t->info;
         delete t;
@@ -57,7 +53,6 @@ class SinglyLinkedList : public List<Type>
 
     bool remove(Type tip)
     {
-        //nova funkcija koja se koristi u lekciji Hasiranje
         Node<Type> *t = node;
         Node<Type> *pt = nullptr;
 
@@ -69,17 +64,13 @@ class SinglyLinkedList : public List<Type>
             t = t->next;
         }
         if (t == nullptr)
-        {
             return false;
-        }
+
         if (pt == nullptr)
-        {
             node = t->next;
-        }
         else
-        {
             pt->next = t->next;
-        }
+
         delete t;
         return true;
     }
@@ -105,13 +96,12 @@ class SinglyLinkedList : public List<Type>
     Type &get(int i)
     {
         if (i > counter)
-            throw exception("indeks je veći od brojaca");
+            throw exception("Index is bigger then counter.");
 
         Node<Type> *t = node;
         for (int j = 0; j < (counter - i - 1); j++)
-        {
             t = t->next;
-        }
+            
         return t->info;
     }
 
