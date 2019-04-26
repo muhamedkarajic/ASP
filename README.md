@@ -15,7 +15,7 @@
 ### Other Algorithms
 * [Linked List](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 * [Stack](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
-* [Linked List](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Priority Queues](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 
 ### Data Structures
 * [Hashing](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
