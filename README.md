@@ -1,12 +1,12 @@
 
 ### Sort Algorithms:
-* [Insertion Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
-* [Selection Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
-* [Merge Sort](https://github.com/muhamedkarajic/Exercise/blob/master/separateNumbers.py)
-* [Quick Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
-* [Bucket Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
-* [Radix Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
-* [Heap Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Insertion Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/insertionSort.cpp)
+* [Selection Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/selectionSort.cpp)
+* [Merge Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/mergeSort.cpp)
+* [Quick Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/quickSort.cpp)
+* [Bucket Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/bucketSort.cpp)
+* [Radix Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/radixSort.cpp)
+* [Heap Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/heapSort.cpp)
 
 ### Search Algorithms
 * [Binary Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
