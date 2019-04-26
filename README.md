@@ -13,7 +13,9 @@
 * [Breadth First Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 
 ### Other Algorithms
-* [Hashing](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Linked List](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Stack](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Linked List](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 
 ### Data Structures
 * [Hashing](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
