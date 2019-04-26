@@ -8,19 +8,15 @@
 * [Radix Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/radixSort.cpp)
 * [Heap Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/heapSort.cpp)
 
-### Search Algorithms
+### Search Algorithms:
 * [Binary Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 * [Depth First Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 * [Breadth First Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 
-### Other Algorithms
-* [Linked List](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
-* [Stack](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
-* [Priority Queues](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
-
-### Data Structures
-* [Hashing](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
-
+### Data Structures:
+* [Linked List](https://github.com/muhamedkarajic/Algorithm/tree/master/Structures/LinkedList)
+* [Stack](https://github.com/muhamedkarajic/Algorithm/tree/master/Structures/Stack)
+* [Queue](https://github.com/muhamedkarajic/Algorithm/tree/master/Structures/Queue)
 
 ### Curriculum of Algorithms and data structures:
 1. Linked list
