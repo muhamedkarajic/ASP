@@ -1,11 +1,12 @@
 
 ### Sort Algorithms:
+* [Insertion Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Selection Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 * [Merge Sort](https://github.com/muhamedkarajic/Exercise/blob/master/separateNumbers.py)
 * [Quick Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 * [Bucket Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Radix Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 * [Heap Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
-* [Insertion Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
-* [Selection Sort](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 
 ### Search Algorithms
 * [Binary Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
