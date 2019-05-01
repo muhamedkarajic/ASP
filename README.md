@@ -18,7 +18,7 @@
 * [Stack](https://github.com/muhamedkarajic/Algorithm/tree/master/Structures/Stack)
 * [Queue](https://github.com/muhamedkarajic/Algorithm/tree/master/Structures/Queue)
 
-### Curriculum of Algorithms and data structures:
+### Curriculum of Algorithms and Data Structures:
 1. Linked list
 2. Stack and Queue
 3. Priority Queue
