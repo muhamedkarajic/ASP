@@ -33,14 +33,3 @@
 12. Determine the shortest distance
 13. Data compression
 14. Reduction
-
-
-| Sort          | Search        |
-| ------------- |:-------------:|
-| * [Insertion Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/insertionSort.cpp)|* [Binary Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp) | * [Depth First Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)|
-* [Selection Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/selectionSort.cpp)| |
-* [Merge Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/mergeSort.cpp)| |
-* [Quick Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/quickSort.cpp)| |
-* [Bucket Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/bucketSort.cpp)| |
-* [Radix Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/radixSort.cpp)| |
-* [Heap Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/heapSort.cpp)| |
