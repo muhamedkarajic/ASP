@@ -9,7 +9,7 @@
 * [Heap Sort](https://github.com/muhamedkarajic/Algorithm/blob/master/Sort/heapSort.cpp)
 
 ### Search Algorithms:
-* [Binary Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
+* [Binary Search](https://github.com/muhamedkarajic/Algorithm/blob/master/BinaryTreeSearch.cppp)
 * [Depth First Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 * [Breadth First Search](https://github.com/muhamedkarajic/Exercise/blob/master/transposeMatrix.cpp)
 
