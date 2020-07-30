@@ -17,6 +17,7 @@
 * [Linked List](https://github.com/muhamedkarajic/Algorithm/tree/master/Structures/LinkedList)
 * [Stack](https://github.com/muhamedkarajic/Algorithm/tree/master/Structures/Stack)
 * [Queue](https://github.com/muhamedkarajic/Algorithm/tree/master/Structures/Queue)
+* [Queue](https://github.com/muhamedkarajic/Algorithm/blob/master/Structures/Node/Node.cpp)
 
 ### Curriculum of Algorithms and Data Structures:
 1. Linked list
